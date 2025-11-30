@@ -1,5 +1,5 @@
 # CryptoTrends-Analysis-With-PowerBI
-![image alt](image_url)
+![image alt](https://github.com/iammigjoe/CryptoTrends-Analysis-With-PowerBI/blob/main/250127_3%20blog%20visuals%20on%202025%20crypto%20trends-02.png?raw=true)
 📌 Project Overview
 
 This project presents a complete exploratory and analytical study of a cryptocurrency dataset using Power BI.
